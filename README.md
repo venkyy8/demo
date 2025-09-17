@@ -1,2 +1,1 @@
-this is the screenshot
-(s3-aws-screenshot.png)
+- The path in Markdown `![Alt Text](s3-aws-screenshot.png)` works because the image is in
