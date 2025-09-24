@@ -4,6 +4,8 @@ Ansible
 Jenkins
 Shell Script
 Python For Devops
+
+
 Kubernetes 
 GitOps -->ArgoCD
 Security (devSecops -->OWASP Dependencies, trivy,snik,code sign)
