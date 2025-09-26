@@ -6,8 +6,9 @@ Shell Script
 Python For Devops
 
 
+GitOps -->ArgoCD  ==>not created Github Repo
+
 Kubernetes 
-GitOps -->ArgoCD
 Security (devSecops -->OWASP Dependencies, trivy,snik,code sign)
 Monitoring
 Observability
