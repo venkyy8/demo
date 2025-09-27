@@ -5,9 +5,8 @@ Jenkins
 Shell Script
 Python For Devops
 GitHub Actions
+GitOps -->ArgoCD  
 
-
-GitOps -->ArgoCD  ==>not created Github Repo
 
 Kubernetes 
 Security (devSecops -->OWASP Dependencies, trivy,snik,code sign)
