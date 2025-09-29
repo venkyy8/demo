@@ -1,4 +1,3 @@
-
 Terraform
 Ansible
 Jenkins
@@ -6,17 +5,16 @@ Shell Script
 Python For Devops
 GitHub Actions
 GitOps -->ArgoCD  
-
-
-Kubernetes 
+GitLab CI/CD
 Security (devSecops -->OWASP Dependencies, trivy,snik,code sign)
+
+
+
 Monitoring
 Observability
-GitLab CI/CD
+Kubernetes 
 Azure Pipelines
-Cloud Formation
 Hashicorp Vault
-
-
 NGINX
+Cloud Formation
 
