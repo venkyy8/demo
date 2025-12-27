@@ -12,7 +12,7 @@ jobs:
         run: echo "Hello from workflow 1" > myfile.txt
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: myfile
           path: myfile.txt
