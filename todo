@@ -1,6 +1,11 @@
 TODO:
 
-
-Develop anomaly detection models on log data using Python ML libraries. & send email for specific pattern fnd
+1.	Data Migration project
+2.	Aws organization and scp roles implimentation to access resources & do micgation project on this
+3.	A project in k8s on kyverno with policy non pod should create without resource requests and implement webhhok in the kyverno policy also.
+4.	Need to do project on (Azure Monitor, Application Insights, Log Analytics)
+5.	Need to do project on nginx ingress gateways
+6. Project on head less service
+7. Develop anomaly detection models on log data using Python ML libraries. & send email for specific pattern fnd
 
 
