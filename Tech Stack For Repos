@@ -12,9 +12,5 @@ Security (devSecops -->OWASP Dependencies, trivy,snik,code sign)
 
 Monitoring
 Observability
-Kubernetes 
-Azure Pipelines
-Hashicorp Vault
-NGINX
 Cloud Formation
 
