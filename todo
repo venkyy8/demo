@@ -2,11 +2,12 @@ TODO:
 
 1.	Azure Project	
 2.	Data Migration project
-3.	Aws organization and scp roles implimentation to access resources & do micgation project on this
+3.	Aws organization and scp roles implimentation to access resources & do migation project on this
 4.	A project in k8s on kyverno with policy non pod should create without resource requests and implement webhhok in the kyverno policy also.
 5.	Need to do project on (Azure Monitor, Application Insights, Log Analytics)
 6.	Need to do project on nginx ingress gateways
 7.	Project on head less service
 8.	Develop anomaly detection models on log data using Python ML libraries. & send email for specific pattern fnd
-
+9.Backup & Restore
+10.statefullsets
 
