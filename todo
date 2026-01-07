@@ -1,6 +1,6 @@
 TODO:
 
-1.	Azure Project	
+
 2.	Data Migration project
 3.	Aws organization and scp roles implimentation to access resources & do migation project on this
 4.	A project in k8s on kyverno with policy non pod should create without resource requests and implement webhhok in the kyverno policy also.
